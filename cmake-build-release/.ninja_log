@@ -1,0 +1,9 @@
+# ninja log v5
+1	56	1728918422624788887	lib/CMakeFiles/My_OpenGL_Portfolio.dir/src/VAO.cpp.o	54ecf3f739db3232
+1	56	1728918422624910972	lib/CMakeFiles/My_OpenGL_Portfolio.dir/src/EBO.cpp.o	45d6752997e36227
+1	56	1728918422625257063	lib/CMakeFiles/My_OpenGL_Portfolio.dir/src/VBO.cpp.o	79272e8127306b63
+1	172	1728918422741726730	lib/CMakeFiles/My_OpenGL_Portfolio.dir/src/glad.c.o	f535f4f0b965b060
+0	301	1728918422868286145	lib/CMakeFiles/My_OpenGL_Portfolio.dir/src/example.cpp.o	a7c1744d1653be45
+303	405	1728918422973171326	lib/libMy_OpenGL_Portfolio.dylib	de36545cefa8bd25
+1	468	1728918423035049588	test/CMakeFiles/test_portfolio.dir/portfolio_test.cpp.o	5c542f680812661
+468	559	1728918423128533286	test/test_portfolio	cb927ce7c1f5ed77

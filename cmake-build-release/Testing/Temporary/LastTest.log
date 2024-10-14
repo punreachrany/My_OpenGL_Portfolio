@@ -1,0 +1,32 @@
+Start testing: Oct 15 00:07 KST
+----------------------------------------------------------
+1/1 Testing: portfolio_test
+1/1 Test: portfolio_test
+Command: "/Users/punreachrany/Desktop/OpenGL Project/My_OpenGL_Porfolio/cmake-build-release/test/test_portfolio"
+Directory: /Users/punreachrany/Desktop/OpenGL Project/My_OpenGL_Porfolio/cmake-build-release/test
+"portfolio_test" start time: Oct 15 00:07 KST
+Output:
+----------------------------------------------------------
+Running main() from /tmp/googletest-20230913-4615-1t6szd0/googletest-1.14.0/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RANDOM
+[ RUN      ] RANDOM.TEST_SUBJECT
+HELLO BRO
+2024-10-15 00:07:04.124 test_portfolio[91928:2238287] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-15 00:07:04.124 test_portfolio[91928:2238287] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+[       OK ] RANDOM.TEST_SUBJECT (2752 ms)
+[----------] 1 test from RANDOM (2752 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2752 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   3.40 sec
+----------------------------------------------------------
+Test Passed.
+"portfolio_test" end time: Oct 15 00:07 KST
+"portfolio_test" time elapsed: 00:00:03
+----------------------------------------------------------
+
+End testing: Oct 15 00:07 KST
